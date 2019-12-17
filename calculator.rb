@@ -1,2 +1,2 @@
 # Add your variables here
-frist_numer =
+frist_numer = './calculator.rb'
